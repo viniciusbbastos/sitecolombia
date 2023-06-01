@@ -1,0 +1,30 @@
+
+body {
+  margin:0;
+  padding:0;
+}
+.cabeicote {
+  background-color: #ffcd00;
+  margin: 0;
+  padding: 0 20px;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cabeicote img{
+  max-height: 30px;
+}
+
+.cabeicote a{
+  text-decoration: none;
+  font-weight: bolder;
+  margin: 10px;
+  font-size: 1.1em;
+  color: #003087;
+}
+ 
+ .cabeicote a:hover {
+   text-decoration: underline;
+ }
